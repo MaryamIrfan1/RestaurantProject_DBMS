@@ -1,6 +1,7 @@
 # Restaurant POS and Website
 
-![Screenshot 1](RestaurantProjectImages/Screenshot%202024-05-30%20165050.png)
+![Screenshot 1](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165050.png)
+
 
 ## Built with:
 <p align="left">
