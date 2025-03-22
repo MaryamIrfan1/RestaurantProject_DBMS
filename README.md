@@ -1,8 +1,8 @@
-## Restaurant POS and Website
+# Restaurant POS and Website
 
 ![Screenshot 1](RestaurantProjectImages/Screenshot%202024-05-30%20165050.png)
 
-**Built with these:** 
+## Built with:
 <p align="left">
    <a href="#">
       <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -13,48 +13,43 @@
    </a>
 </p>
 
-**Using:** Php 7.4
+### Using: 
+- **PHP 7.4**
 
-**Features:**
-* **Customer Side (customerSide Folder):** Stores the website and allows customers to:
-    * Make reservations
-    * Register for accounts
-    * View profile points
-* **Staff Side (adminSide Folder):** Stores the panels and allows staff to:
-    * Take orders
-    * Send orders to the kitchen
-    * Process payments
-    * Print receipts
-    * Manage CRUD operations
-    * View user preferences
-    * Download reports
-    * View charts and graph
+## Features:
+### **Customer Side (`customerSide` Folder)**
+- Make reservations
+- Register for accounts
+- View profile points
 
+### **Staff Side (`adminSide` Folder)**
+- Take orders & send them to the kitchen
+- Process payments & print receipts
+- Manage CRUD operations
+- View user preferences
+- Download reports & view charts
 
-
-**Steps to run the project locally for Netbeans Manually:**
-
-1. Open XAMPP, start Apache and MySQL.
+## Steps to run the project locally (NetBeans):
+1. Open **XAMPP**, start Apache and MySQL.
 2. Create a new project named `RestaurantProject`.
-3. Delete the `index.php` file.
-4. Copy all the folders and files (adminSide, customerSide, index.php, and restaurantDB.txt) into the `Source Files` directory.
-5. Make sure there is no database named `restaurantdb`.
+3. Delete the default `index.php` file.
+4. Copy all folders and files (`adminSide`, `customerSide`, `index.php`, `restaurantDB.txt`) into the `Source Files` directory.
+5. Ensure no database named `restaurantdb` exists.
 6. Run the project.
 
-## Example accounts
+## Example Accounts:
 
-| Role | Email | Password |
-|---|---|---|
-| Customer | dadsvawvid@gmail.com | david4pass |
-| Customer | zoe@gmail.com | passworddef |
-| Customer | jackie@gmail.com | passwordstu |
-| Staff | 1 | password123 |
-| Staff | 10 | davidpa2ss |
-| Staff | 7 | robertpass |
-| Admin | 99999 | 12345 |
+| Role     | Email / Username      | Password       |
+|----------|----------------------|---------------|
+| Customer | dadsvawvid@gmail.com | david4pass    |
+| Customer | zoe@gmail.com        | passworddef   |
+| Customer | jackie@gmail.com     | passwordstu   |
+| Staff    | 1                    | password123   |
+| Staff    | 10                   | davidpa2ss    |
+| Staff    | 7                    | robertpass    |
+| Admin    | 99999                | 12345         |
 
-## Screenshots
-## Screenshots
+## Screenshots:
 
 ![Screenshot 1](RestaurantProjectImages/Screenshot%202024-05-30%20165050.png)
 ![Screenshot 2](RestaurantProjectImages/Screenshot%202024-05-30%20165150.png)
@@ -76,11 +71,9 @@
 ![Screenshot 18](RestaurantProjectImages/Screenshot%202024-05-30%20170610.png)
 ![Screenshot 19](RestaurantProjectImages/Screenshot%202024-05-30%20170641.png)
 
+## Contributors:
+| Name            | GitHub Profile |
+|----------------|---------------|
+| **Maryam Irfan** | [GitHub](https://github.com/MaryamIrfan1) |
+| **M. Moin Bukhari** | - |
 
-
-## Contributors
-
-| Name | Github |
-|---|---|
-| Maryam Irfan | https://github.com/MaryamIrfan1 |
-| M.Moin Bukhari |
