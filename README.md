@@ -50,27 +50,28 @@
 | Staff    | 7                    | robertpass    |
 | Admin    | 99999                | 12345         |
 
-## Screenshots:
+## Screenshots
 
-![Screenshot 1](RestaurantProjectImages/Screenshot%202024-05-30%20165050.png)
-![Screenshot 2](RestaurantProjectImages/Screenshot%202024-05-30%20165150.png)
-![Screenshot 3](RestaurantProjectImages/Screenshot%202024-05-30%20165217.png)
-![Screenshot 4](RestaurantProjectImages/Screenshot%202024-05-30%20165243.png)
-![Screenshot 5](RestaurantProjectImages/Screenshot%202024-05-30%20165530.png)
-![Screenshot 6](RestaurantProjectImages/Screenshot%202024-05-30%20165611.png)
-![Screenshot 7](RestaurantProjectImages/Screenshot%202024-05-30%20165635.png)
-![Screenshot 8](RestaurantProjectImages/Screenshot%202024-05-30%20165711.png)
-![Screenshot 9](RestaurantProjectImages/Screenshot%202024-05-30%20165735.png)
-![Screenshot 10](RestaurantProjectImages/Screenshot%202024-05-30%20165801.png)
-![Screenshot 11](RestaurantProjectImages/Screenshot%202024-05-30%20165910.png)
-![Screenshot 12](RestaurantProjectImages/Screenshot%202024-05-30%20170228.png)
-![Screenshot 13](RestaurantProjectImages/Screenshot%202024-05-30%20170326.png)
-![Screenshot 14](RestaurantProjectImages/Screenshot%202024-05-30%20170359.png)
-![Screenshot 15](RestaurantProjectImages/Screenshot%202024-05-30%20170437.png)
-![Screenshot 16](RestaurantProjectImages/Screenshot%202024-05-30%20170504.png)
-![Screenshot 17](RestaurantProjectImages/Screenshot%202024-05-30%20170539.png)
-![Screenshot 18](RestaurantProjectImages/Screenshot%202024-05-30%20170610.png)
-![Screenshot 19](RestaurantProjectImages/Screenshot%202024-05-30%20170641.png)
+![Screenshot 1](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165050.png)
+![Screenshot 2](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165150.png)
+![Screenshot 3](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165217.png)
+![Screenshot 4](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165243.png)
+![Screenshot 5](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165530.png)
+![Screenshot 6](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165611.png)
+![Screenshot 7](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165635.png)
+![Screenshot 8](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165711.png)
+![Screenshot 9](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165735.png)
+![Screenshot 10](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165801.png)
+![Screenshot 11](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20165910.png)
+![Screenshot 12](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20170228.png)
+![Screenshot 13](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20170326.png)
+![Screenshot 14](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20170359.png)
+![Screenshot 15](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20170437.png)
+![Screenshot 16](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20170504.png)
+![Screenshot 17](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20170539.png)
+![Screenshot 18](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20170610.png)
+![Screenshot 19](https://raw.githubusercontent.com/MaryamIrfan1/RestaurantProject_DBMS/master/RestaurantProject-main/RestaurantProjectImages/Screenshot%202024-05-30%20170641.png)
+
 
 ## Contributors:
 | Name            | GitHub Profile |
