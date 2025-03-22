@@ -1,6 +1,6 @@
 ## Restaurant POS and Website
 
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homehomepage.png?raw=true)
+![Screenshot 1](RestaurantProjectImages/Screenshot%202024-05-30%20165050.png)
 
 **Built with these:** 
 <p align="left">
@@ -54,23 +54,27 @@
 | Admin | 99999 | 12345 |
 
 ## Screenshots
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homehomepage.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/register.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/Login.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homepageloggedin.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/reservation.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/stafflogin.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/postable.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/orderitembeforepay.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/addmemberidandreservationid.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/cashpaid.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/cardpayment.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/billdpanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/tablepanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/kitchenpanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/salespanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/statisticspanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/profilespanel.png?raw=true)
+## Screenshots
+
+![Screenshot 1](RestaurantProjectImages/Screenshot%202024-05-30%20165050.png)
+![Screenshot 2](RestaurantProjectImages/Screenshot%202024-05-30%20165150.png)
+![Screenshot 3](RestaurantProjectImages/Screenshot%202024-05-30%20165217.png)
+![Screenshot 4](RestaurantProjectImages/Screenshot%202024-05-30%20165243.png)
+![Screenshot 5](RestaurantProjectImages/Screenshot%202024-05-30%20165530.png)
+![Screenshot 6](RestaurantProjectImages/Screenshot%202024-05-30%20165611.png)
+![Screenshot 7](RestaurantProjectImages/Screenshot%202024-05-30%20165635.png)
+![Screenshot 8](RestaurantProjectImages/Screenshot%202024-05-30%20165711.png)
+![Screenshot 9](RestaurantProjectImages/Screenshot%202024-05-30%20165735.png)
+![Screenshot 10](RestaurantProjectImages/Screenshot%202024-05-30%20165801.png)
+![Screenshot 11](RestaurantProjectImages/Screenshot%202024-05-30%20165910.png)
+![Screenshot 12](RestaurantProjectImages/Screenshot%202024-05-30%20170228.png)
+![Screenshot 13](RestaurantProjectImages/Screenshot%202024-05-30%20170326.png)
+![Screenshot 14](RestaurantProjectImages/Screenshot%202024-05-30%20170359.png)
+![Screenshot 15](RestaurantProjectImages/Screenshot%202024-05-30%20170437.png)
+![Screenshot 16](RestaurantProjectImages/Screenshot%202024-05-30%20170504.png)
+![Screenshot 17](RestaurantProjectImages/Screenshot%202024-05-30%20170539.png)
+![Screenshot 18](RestaurantProjectImages/Screenshot%202024-05-30%20170610.png)
+![Screenshot 19](RestaurantProjectImages/Screenshot%202024-05-30%20170641.png)
 
 
 
@@ -78,6 +82,5 @@
 
 | Name | Github |
 |---|---|
-| Bryan | https://github.com/BryanTheLai |
-| Yong | https://github.com/ahhyang |
-| Kevin | https://github.com/kevin07212004 |
+| Maryam Irfan | https://github.com/MaryamIrfan1 |
+| M.Moin Bukhari |
